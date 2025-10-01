@@ -1,16 +1,16 @@
-# Smooth Operator THeme
+# Smooth Operator
 
-## Working with Markdown
+## About
 
 A custom theme that I made because I wanted something orange-ish and easy on the eyes.
 
-## Screenshots
+There's an Formula 1 outline in the icon because the name of this extension is inspired by Carlos Sainz, the **Smooth Operator**.
 
-### Light
+### Light screenshot
 
 ![Light theme screenshot](assets/SmoothOperatorLightScreenshot.png)
 
-### Dark
+### Dark screenshot
 
 ![Dark theme screenshot](assets/SmoothOperatorDarkScreenshot.png)
 
