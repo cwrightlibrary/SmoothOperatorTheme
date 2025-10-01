@@ -1,12 +1,18 @@
-# smooth-operator README
+# Smooth Operator THeme
 
 ## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+A custom theme that I made because I wanted something orange-ish and easy on the eyes.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Screenshots
+
+### Light
+
+![Light theme screenshot](assets/SmoothOperatorLightScreenshot.png)
+
+### Dark
+
+![Dark theme screenshot](assets/SmoothOperatorDarkScreenshot.png)
 
 ## For more information
 
