@@ -1,0 +1,21 @@
+{
+  "name": "smooth-operator",
+  "displayName": "smooth-operator",
+  "description": "an easy color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Smooth Operator",
+        "uiTheme": "vs",
+        "path": "./themes/Smooth Operator-color-theme.json"
+      }
+    ]
+  }
+}
