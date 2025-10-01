@@ -12,9 +12,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Smooth Operator",
+        "label": "Smooth Operator Light",
         "uiTheme": "vs",
-        "path": "./themes/Smooth Operator-color-theme.json"
+        "path": "./themes/Smooth Operator-color-theme-light.json"
+      },
+      {
+        "label": "Smooth Operator Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Smooth Operator-color-theme-dark.json"
       }
     ]
   }
