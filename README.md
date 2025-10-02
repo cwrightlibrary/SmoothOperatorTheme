@@ -4,7 +4,7 @@
 
 A custom theme that I made because I wanted something orange-ish and easy on the eyes.
 
-There's an Formula 1 outline in the icon because the name of this extension is inspired by Carlos Sainz, the **Smooth Operator**.
+There's a Formula 1 outline in the icon because the name of this extension is inspired by Carlos Sainz, the **Smooth Operator**.
 
 ### Light screenshot
 
