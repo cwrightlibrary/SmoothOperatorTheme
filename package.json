@@ -2,7 +2,7 @@
   "name": "smooth-operator",
   "displayName": "Smooth Operator",
   "description": "A calming VS Code theme with #F17C00 highlights.",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "publisher": "jpchriswright",
   "engines": {
     "vscode": "^1.80.0"
